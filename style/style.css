@@ -1,0 +1,27 @@
+body {
+background-color: #121212;
+color: #FFFFFF;
+}
+.form-container {
+max-width: 500px;
+margin: 3rem auto;
+padding: 2rem;
+background-color: #1e1e1e;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.form-container h1 {
+color: #E0E0E0;
+text-align: center;
+margin-bottom: 1.5rem;
+}
+.form-container label {
+color: #B0B0B0;
+}
+.btn-custom {
+background-color: #6200ea;
+color: #FFFFFF;
+}
+.btn-custom:hover {
+background-color: #3700b3;
+}
